@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/pump_explosion.unity
+  isLoaded: 1
+  isActive: 1
