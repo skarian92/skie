@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/components.unity
+- path: Assets/pump.unity
   isLoaded: 1
   isActive: 1
